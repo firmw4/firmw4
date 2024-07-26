@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi, I’m Firmw4</h1>
-<p align="center">Programmer with a passion for photography and Graphic Design</p>
+# 👋 Hi, I’m Firmw4
+A beginner Frontend developer
   
-- I am a student at SMK Angkasa Tasikmalaya
-- Currently learning **Java**, **CPP** and **JavaScript**
+![Firmw4's GitHub stats](https://github-readme-stats.vercel.app/api?username=firmw4&show_icons=true&theme=swift)
