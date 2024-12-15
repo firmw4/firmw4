@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Firmw4
-A beginner Frontend developer
+# Hi, aku Zakky
+Orang yang pengen jago ngoding, tapi malah suka main fesnuk
   
-![Firmw4's GitHub stats](https://github-readme-stats.vercel.app/api?username=firmw4&show_icons=true&theme=swift)
+![Tingkat Kemalasan](https://github-readme-stats.vercel.app/api?username=firmw4&show_icons=true&theme=graywhite)
